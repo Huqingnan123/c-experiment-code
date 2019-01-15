@@ -1,0 +1,4 @@
+﻿  ex_8_3.c
+e:\repos about c\c-experience-code\c-experience-code\ex_8_3.c(24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+  C-experience-code.vcxproj -> E:\repos about C\C-experience-code\Debug\C-experience-code.exe
